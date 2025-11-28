@@ -1,0 +1,7 @@
+# Ignore
+*
+
+# Include
+!.gitignore
+!README.md
+!log.py
